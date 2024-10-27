@@ -1,0 +1,6 @@
+[submodule "livros-next"]
+	path = livros-next
+	url = https://github.com/postassiums/Livro-Next-Estacio
+[submodule "livros-react"]
+	path = livros-react
+	url = https://github.com/postassiums/Livros-React-Estacio
