@@ -1,6 +1,8 @@
 [submodule "livros-next"]
+	branch= main
 	path = livros-next
 	url = https://github.com/postassiums/Livro-Next-Estacio
 [submodule "livros-react"]
+	branch= main
 	path = livros-react
 	url = https://github.com/postassiums/Livros-React-Estacio
